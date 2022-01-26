@@ -25,7 +25,7 @@ const Posts = ({ posts }) => {
       <Table sx={{ minWidth: 650 }} aria-label="simple table">
         <TableHead>
           <TableRow>
-            <TableCell align="center">Prueba actualización amplify</TableCell>
+            <TableCell align="center">UserId</TableCell>
             <TableCell align="center">Id</TableCell>
             <TableCell align="center">Title</TableCell>
             <TableCell align="center">Body</TableCell>
